@@ -29,7 +29,7 @@ Kiến trúc: MVC (Model - View - Controller)
 
 Cài đặt và sử dụng
 # Clone dự án
-git clone https://github.com/phandangk4/quanlychungcu.git
+git clone https://github.com/dangphank4/quanlychungcu.git
 cd quanlychuncu
 
 Mở bằng IDE (IntelliJ IDEA hoặc Eclipse)
