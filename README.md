@@ -33,8 +33,8 @@ Cài đặt và sử dụng
 git clone https://github.com/phandangk4/quanlychungcu.git
 
 cd quanlychuncu
-# Mở bằng IDE (IntelliJ IDEA hoặc Eclipse)
-# Built và chạy ứng dụng
+Mở bằng IDE (IntelliJ IDEA hoặc Eclipse)
+Built và chạy ứng dụng
 
 Đóng góp
 Chúng tôi chào đón các đóng góp để hoàn thiện sản phẩm:
